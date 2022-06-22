@@ -1,7 +1,5 @@
-# 💫 About Me: ---
-[![](https://visitcount.itsvg.in/api?id=jpablocruz&icon=5&color=12)](https://visitcount.itsvg.in)
-<br>Back End development Enthusiast<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
-
+# <h1>🖐️ Hi! I'm Pablo Cruz [![](https://visitcount.itsvg.in/api?id=jpablocruz&icon=5&color=12)](https://visitcount.itsvg.in)</h1> 
+Back End development Enthusiast<br> 🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/pablocruzramos) 
@@ -15,3 +13,4 @@
 
 ## 🏆 Achievements
 ![](https://github-profile-trophy.vercel.app/?username=jpablocruz&theme=onestar&no-frame=false&no-bg=false&margin-w=4)
+
