@@ -1,8 +1,8 @@
 # <h1>🖐️ Hello there! I'm Pablo Cruz     [![](https://visitcount.itsvg.in/api?id=jpablocruz&icon=5&color=12)](https://visitcount.itsvg.in)</h1> 
-<h3>Back End development Enthusiast<h3> 
-<br>🌱 I’m currently learning full stack tech using <strong>MERN<strong> 
-<br>🤔 I’m looking for help with backend development
-<br>💬 Ask me about C++, JavaScript and coding problems, I will be glad to help you! 😄
+<h3>Back End development Enthusiast</h3> <br>
+<h5>🌱 I’m currently learning full stack tech using <strong>MERN<strong></h5> 
+<h5>🤔 I’m looking for help with backend development</h5>
+<h5>💬 Ask me about C++, JavaScript and coding problems, I will be glad to help you! 😄 </h5>
 
 ## 📫 Reach me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/pablocruzramos) 
@@ -13,7 +13,6 @@
 # 📊 My Github Stats
 ![](https://github-readme-stats.vercel.app/api?username=jpablocruz&theme=swift&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jpablocruz&theme=swift&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jpablocruz&theme=swift&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 Achievements
 ![](https://github-profile-trophy.vercel.app/?username=jpablocruz&theme=onestar&no-frame=false&no-bg=false&margin-w=4)
