@@ -1,6 +1,6 @@
 # <h1>🖐️ Hello there! I'm Pablo Cruz</h1>
 [![](https://visitcount.itsvg.in/api?id=jpablocruz&icon=5&color=12)](https://visitcount.itsvg.in)
-<h3>Back End development Enthusiast</h3> <br>
+<h3>Back End development Enthusiast</h3>
 <h5>🌱 I’m currently learning full stack tech using <strong>MERN<strong></h5> 
 <h5>🤔 I’m looking for help with backend development resources</h5>
 <h5>💬 Ask me about C++, Python and coding problems, I will be glad to help you! 😄 </h5>
